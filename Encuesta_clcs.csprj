@@ -1,0 +1,29 @@
+
+<codestructure version="2.1.0">
+<phptree>
+</phptree>
+<jstree>
+<treenode node="cambiarImagen;JS:Function Name;3632128898;f0;3;1;21;;564842153;f0;32;1;102;;;;vpos;;v;;aObject_;;c;;r;;d31,32;;b0,0;;m0;;e0;;i0;;o;;k;;lfotoxd;;p;;x;;n">
+</treenode>
+<treenode node="cambiarImagen2;JS:Function Name;564842153;f0;103;1;162;;;;vpos;;v;;aObject_;;c;;r;;d32,103;;b0,0;;m0;;e0;;i0;;o;;k;;lfotoxd;;p;;x;;n">
+</treenode>
+<treenode node="desplegarMenu;JS:Function Name;564842153;f0;11;1;28;;;;vpos;;v;;aObject_;;c;;r;;d24,11;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="enviarForm;JS:Function Name;564842153;f0;7;1;9;;;;vpos;;v;;aObject_;;c;;r;;d21,7;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="compas;JS:JS Var Name;564842153;f4;5;10;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="images;JS:JS Var Name;3632128898;f4;0;10;0;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="nenas;JS:JS Var Name;564842153;f4;0;9;0;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="nenes;JS:JS Var Name;564842153;f4;2;9;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="todes;JS:JS Var Name;564842153;f4;4;9;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="usedImages;JS:JS Var Name;3632128898;f4;1;14;1;;564842153;f4;30;14;30;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>

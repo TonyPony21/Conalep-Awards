@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>CONALEP AWARDS</title>
+		<link rel="stylesheet" style="text/css" href="estilo.css">
+	</head>
+	<body onload="cambiarImagen()">
+	<header>
+	CONALEP AWARDS
+	</header>
+	<div class="contenedor">
+	<menu>
+	<ul>
+		<li><a href="acerca.html">Acerca de:</a></li>
+		<li><button class="nominaciones-btn" id="btn-nominacion" onclick="desplegarMenu()">Nominaciones</button>
+		<ul id="submenu" class="nominaciones">
+		<br><br>
+		<li ><a href="chistoso.html">Chistoso</a></li>
+		<li ><a  href="chistosa.html">Chistosa</a></li>
+		<li><a href="chismose.html">Chismos@</a></li>
+		<li><a href="cringe.html">Cringe</a></li>
+		<li><a href="guapo.html">Guapo</a></li>
+		<li><a href="linda.html">Linda</a></li>
+		<li><a href="inteligente.html">Inteligente</a></li>
+		<li><a href="pendeje.html">Pendej@</a></li>
+		<li><a href="estilo.html">Estilo</a></li>
+		<li><a href="timide.html">Timid@</a></li>
+		<li><a href="castrose.html">Castros@</a></li>
+		<li><a href="lamebotas.html">LameBotas</a></li>
+		<li><a href="rare.html">Raro</a></li>
+		<li><a href="misteriose.html">Misterioso</a></li>
+		<li><a href="Depresive.html">Depresivo</a></li>
+		<li><a href="simpatico.html">Simpatico</a></li>
+		<li><a href="infiel.html">Infiel</a></li>
+		<li><a href="feo.html">Feo</a></li>
+		<li><a href="borrache.html">Borracho</a></li>
+		
+		</ul>
+		</li>
+	</ul>
+	</menu>
+		<main>
+		
+
+				
+		<div class="mensaje" id="mensajejsjs">
+		<form action="Encuesta.php" id="formulario" method="post">
+					<input type="hidden" name="linda" id="ganador" class="ganador" value="" onload="escogerGanador(19)">
+			Terminaste bastardo<br><br> <button type="submit" onclick="desplegarMenu()">Enviar</button>
+			</form>
+		</div>
+		<div class="divs" onload="cambiarImagen()">
+		<p id="participantes" style="display: none;">nenas</p>
+			<div class="titulo">
+			
+			<p>¿Quién es más linda?</p>
+			</div>
+			<div class="participantes">
+				<button 
+			onclick="cambiarImagen(1)"	class="participante">
+				<div class="circulo"><img id="foto1" class="image"></div>
+				<p id="nombre1"></p>
+				</button>
+				
+				<p>o</p>
+				
+				<button onclick="cambiarImagen(2)" class="participante">
+					<div class="circulo"><img id="foto2" class="image"></div>
+					<p id="nombre2"></p>
+				</button>
+				</div>
+				
+			</div>
+		
+		</main>
+		</div>
+		<footer>Creado por Anthony Carreto Montiel</footer>
+		<script src="recurso.js"> </script>
+	</body>
+</html>
